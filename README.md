@@ -2123,6 +2123,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Tushar Kashyap](https://github.com/tusharkashyap11)
   - [Tushar Pathak](https://github.com/tushar54594)
   - [Twinkle](https://github.com/twinkletrivaan)
+  - [Tanishqa Mitra](https://github.com/tanishqamitra)
 
 | [`Back To Top`](#contents) |
 
